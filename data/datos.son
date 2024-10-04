@@ -1,0 +1,56 @@
+{
+    "jugadores": {
+        "notkahuate": {
+            "nombre": "kevin",
+            "nickname": "notkahuate",
+            "games": 0,
+            "games-win": 0,
+            "loses-games": 0,
+            "games-machine": 0,
+            "games-win-machine": 0,
+            "loses-games-machine": 0,
+            "games-player": 0,
+            "games-win-player": 0,
+            "loses-games-player": 0
+        },
+        "grimaldos": {
+            "nombre": "sebastian",
+            "nickname": "grimaldos",
+            "games": 0,
+            "games-win": 0,
+            "loses-games": 0,
+            "games-machine": 0,
+            "games-win-machine": 0,
+            "loses-games-machine": 0,
+            "games-player": 0,
+            "games-win-player": 0,
+            "loses-games-player": 0
+        },
+        "josefc": {
+            "nombre": "jose",
+            "nickname": "josefc",
+            "games": 0,
+            "games-win": 0,
+            "loses-games": 0,
+            "games-machine": 0,
+            "games-win-machine": 0,
+            "loses-games-machine": 0,
+            "games-player": 0,
+            "games-win-player": 0,
+            "loses-games-player": 0
+        },
+        "0z": {
+            "nombre": "alexis",
+            "nickname": "0z",
+            "games": 0,
+            "games-win": 0,
+            "loses-games": 0,
+            "games-machine": 0,
+            "games-win-machine": 0,
+            "loses-games-machine": 0,
+            "games-player": 0,
+            "games-win-player": 0,
+            "loses-games-player": 0
+        }
+    }
+}
